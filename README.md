@@ -7,4 +7,4 @@ After installing the theme, go to `Preferences | Appearance & Behavior | Appeara
 
 ## Thanks
 
-Thanks to [Mainul Islam](https://github.com/mainuli) who created the repository this project was based on. Without his initiative, this plugin may have never been created.
+Thanks to [Mainul Islam](https://github.com/mainuli) who created the repository. Without his initiative, this plugin may have never been created.
