@@ -1,1 +1,1 @@
-# ideascale-dark intellij idea theme
+# ideascale jetbrains theme
